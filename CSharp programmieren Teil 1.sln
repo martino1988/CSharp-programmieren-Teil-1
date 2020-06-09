@@ -23,7 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009 quadratische Formel", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010 Body Mass Index", "010 Body Mass Index\010 Body Mass Index.csproj", "{F2843D59-1B10-4EA0-8BC8-1F254D17513D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 Benzinverbrauch", "011 Benzinverbrauch\011 Benzinverbrauch.csproj", "{4DD1030B-8FF4-4A0A-B3C3-EF95DD408C16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011 Benzinverbrauch", "011 Benzinverbrauch\011 Benzinverbrauch.csproj", "{4DD1030B-8FF4-4A0A-B3C3-EF95DD408C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Verkäufergehalt", "012 Verkäufergehalt\012 Verkäufergehalt.csproj", "{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Gehalt", "013 Gehalt\013 Gehalt.csproj", "{A4A85EE7-042C-497F-AE5A-0C9C2860078A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 Fahrtzeit berechnen", "014 Fahrtzeit berechnen\014 Fahrtzeit berechnen.csproj", "{F142584F-9F36-4D6F-8594-B4F7DE1289CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{4DD1030B-8FF4-4A0A-B3C3-EF95DD408C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD1030B-8FF4-4A0A-B3C3-EF95DD408C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD1030B-8FF4-4A0A-B3C3-EF95DD408C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A85EE7-042C-497F-AE5A-0C9C2860078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A85EE7-042C-497F-AE5A-0C9C2860078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A85EE7-042C-497F-AE5A-0C9C2860078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A85EE7-042C-497F-AE5A-0C9C2860078A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
