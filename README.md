@@ -189,11 +189,11 @@ int z = r.Next(20); // erzeugt eine Zufallszahl zwischen 0 und 19
 
 T1L16 – Diamantzeichner
 Implementieren Sie ein Programm das einen Diamanten zeichnet. Die Anzahl der * an der breitesten Stelle wird über Konsole eingegeben und muss eine ungerade Zahl sein.
-    *
-  * * *
-* * * * *
-  * * *
-    *
+'    *
+'  * * *
+'* * * * *
+'  * * *
+'    *
 
 T1L17 – Temperaturstatistik
 Lesen Sie von der Konsole beliebig viele positive ganzzahlige Temperaturwerte ein. Die Eingabe wird dem Wert 1000 beendet. Berechnen Sie den niedrigsten, höchsten und durchschnittlichen Temperaturwert.
@@ -307,7 +307,7 @@ Implementieren sie die Methode int[] SwapCopy(int[] iArray) welche alle Elemente
 T1A13 – Multiplikationstafel
 Implementieren Sie ein Programm zur Berechnung der Zahlen von 1*1 bis 12*12. Verwenden Sie für die Speicherung der Zahlen ein int[,] Array. Geben Sie die Tabelle auf der Konsole aus.
           1  2  3  4  5  6  7  8  9   10   11   12
----------------------------------------------------------
+'---------------------------------------------------------
 Zeile 1:  1  2  3  4  5  6  7  8  9   10   11   12
 Zeile 2:  2  4  6  8  10 12 14 16 18  20   22   24
 Zeile 3:  3  6  9  12 15 18 21 24 27  30   33   36
