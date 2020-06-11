@@ -25,11 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010 Body Mass Index", "010 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011 Benzinverbrauch", "011 Benzinverbrauch\011 Benzinverbrauch.csproj", "{4DD1030B-8FF4-4A0A-B3C3-EF95DD408C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Verkäufergehalt", "012 Verkäufergehalt\012 Verkäufergehalt.csproj", "{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012 Verkäufergehalt", "012 Verkäufergehalt\012 Verkäufergehalt.csproj", "{194D08FC-3BDE-40C9-8DE2-C3C8C7E8196D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Gehalt", "013 Gehalt\013 Gehalt.csproj", "{A4A85EE7-042C-497F-AE5A-0C9C2860078A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013 Gehalt", "013 Gehalt\013 Gehalt.csproj", "{A4A85EE7-042C-497F-AE5A-0C9C2860078A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 Fahrtzeit berechnen", "014 Fahrtzeit berechnen\014 Fahrtzeit berechnen.csproj", "{F142584F-9F36-4D6F-8594-B4F7DE1289CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014 Fahrtzeit berechnen", "014 Fahrtzeit berechnen\014 Fahrtzeit berechnen.csproj", "{F142584F-9F36-4D6F-8594-B4F7DE1289CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 Kehrwert", "015 Kehrwert\015 Kehrwert.csproj", "{A126FA5E-9BBE-468E-846B-DB95D5771568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 Mitgliedsbeitrag", "016 Mitgliedsbeitrag\016 Mitgliedsbeitrag.csproj", "{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 Rabatt bei Buchhandlung", "017 Rabatt bei Buchhandlung\017 Rabatt bei Buchhandlung.csproj", "{972DDACC-616D-4867-858E-D0AFE1B9B874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F142584F-9F36-4D6F-8594-B4F7DE1289CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A126FA5E-9BBE-468E-846B-DB95D5771568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A126FA5E-9BBE-468E-846B-DB95D5771568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A126FA5E-9BBE-468E-846B-DB95D5771568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A126FA5E-9BBE-468E-846B-DB95D5771568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
