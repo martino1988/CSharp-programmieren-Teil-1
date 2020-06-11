@@ -218,7 +218,10 @@ Implementieren Sie zwei Methoden zur Berechnung von Umfang und Fläche eines Rec
 2. int Flaeche(int seiteA, int seiteB)
 
 T1M3 – Eulersche Zahl
-Berechnen Sie die Eulersche Zahl e und ex. Über Konsole wird der Wert für n und den Exponenten x eingegeben. Verwenden Sie folgende Formeln: 𝑒= 10!+11!+12!+13!+⋯+1𝑛! 𝑒𝑥=𝑥00!+𝑥11!+𝑥22!+𝑥33!+⋯+𝑥𝑛𝑛! 𝐵𝑒𝑎𝑐ℎ𝑡𝑒𝑛 𝑆𝑖𝑒:0!=1 𝑢𝑛𝑑 𝑥0=1
+Berechnen Sie die Eulersche Zahl e und ex. Über Konsole wird der Wert für n und den Exponenten x eingegeben. Verwenden Sie folgende Formeln:
+
+![2020-06-11 20_09_08-Window](https://user-images.githubusercontent.com/61902639/84423898-7d0a1d80-ac1f-11ea-8b10-166147483164.png)
+
 Zur Berechnung von xi verwenden Sie Math.Pow(x, i). Implementieren Sie folgende Methoden:
 • int Fakultaet(int i)
 • double Euler(int n)
