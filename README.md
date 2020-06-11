@@ -1,13 +1,20 @@
 # CSharp-programmieren-Teil-1
 ## UE Programmieren I, WS18/19: 
-### Inhalt: Arithmetische Operatoren, If – Else, Switch, Loops, Methoden, Arrays
+Vermittlung der Herangehensweise an die Entwicklung von Programmen mit Hilfe von Programmiersprachen unter Berücksichtigung des objektorientierten Programmierparadigmas:
+Inhalt: 
++ Arithmetische Operatoren
++ If – Else
++ Switch
++ Loops
++ Methoden
++ Arrays
 
-#### Konsole Eingabe und Ausgabe
+### Konsole Eingabe und Ausgabe
 
 T1K1 – Eingabe
 Implementieren Sie ein Programm, welches einen String, ein einzelnes Zeichen, einen Integerwert und eine Fließkommazahl von der Konsole einliest.
 
-#### Arithmetische Operatoren
+### Arithmetische Operatoren
 
 T1O1 – Fahrkartenschalter
 Implementieren Sie den Fahrkartenschalter anhand des Struktogramms.
@@ -53,7 +60,7 @@ Geben Sie über Konsole den Stundensatz des Mitarbeiters ein, sowie die Anzahl d
 T1O13 – Fahrzeit berechnen
 Geben Sie über Konsole die Abfahrtszeit des Zuges in Stunden und Minuten und die Ankunftszeit des Zuges in Stunden und Minuten ein. Berechnen Sie die Fahrzeit.
 
-#### If – Else
+### If – Else
 
 T1I1 – Kehrwert
 Implementieren Sie ein Programm zur Berechnung des Kehrwertes 1/z der Zahl z . Die Eingabe der
@@ -103,7 +110,7 @@ für Bier); 1 Fass Wein hat 10 Eimer, ein Fass Bier hat 2 Eimer. Erstellen Sie e
 einliest, ob es sich um Wein oder Bier handelt und danach die Anzahl der Fässer. Es soll die
 Anzahl der darin enthaltenen Seidel berechnet werden.
 
-#### Switch
+### Switch
 
 T1S1 – Schulnoten
 Erstellen Sie ein Programm, das für eine vom Benutzer eingegebene
@@ -124,7 +131,7 @@ Geben Sie das Ergebnis des arithmetischen Ausdrucks auf der Konsole aus. Verwend
 T1S4 – Berechnung arithmetischer Ausdruck
 Wie T1S3 aber unter ausschließlicher Verwendung von ternären Operatoren.
 
-#### Loops
+### Loops
 
 T1L1 – Multiplikation und Division
 Schreiben Sie ein Programm für die ganzzahlige Multiplikation und Division zweier int Zahlen i und j. Verwenden Sie aber nur die Operatoren + und –. Bei der Division soll auch der Rest ermittelt werden. Erstellen Sie zuerst ein Struktogramm.
@@ -207,7 +214,7 @@ Lesen Sie von der Konsole beliebig viele positive ganzzahlige Temperaturwerte ei
 T1L18 – Kubensumme
 Schreiben Sie ein Programm, das alle dreistelligen Zahlen überprüft, ob sie gleich sind der Summe der Kuben ihrer Ziffern (z.B 153 = 1*1*1 + 5*5*5 + 3*3*3). Die gesuchten Zahlen sind 153, 370, 371, und 407.
 
-#### Methoden
+### Methoden
 
 T1M1 – Guthaben berechnen
 Implementieren Sie die Methode double EndkapitalBerechnen(int guthaben, int laufzeit, double zinssatz). Diese Methode berechnet den Wert des guthaben nach Ablauf von laufzeit Jahren unter Anwendung von zinssatz mit Berücksichtigung von Zinseszinsen und gibt das Resultat zurück.
@@ -254,7 +261,7 @@ Schreiben Sie die Methode boolean isPrime(int p) welche p überprüft, ob es sic
 Dieser Satz wurde 1770 veröffentlicht, aber bereits 700 Jahre früher von Abu Ali al-Hasan ibn al-Haitham entdeckt.
 Verwenden Sie als Datentyp für die Berechnung der Fakultät long und für p einen Wert kleiner oder gleich 20. Für die Berechnung der Fakultät verwenden Sie die Methode aus Beispiel T1M3.
 
-#### Array
+### Array
 
 T1A1 – Sieb des Erathosthenes
 Implementieren Sie das Sieb des Erathosthenes zur Berechnung der Primzahlen von 1 bis 1500. Gehen Sie dabei wie folgt vor: Aus der Liste der natürlichen Zahlen werden jene Zahlen gestrichen, die Vielfache der jeweils kleinsten noch nicht gestrichenen Zahl sind. Dadurch bleiben am Ende die Primzahlen übrig. Beachten Sie das Abbruchkriterium.
