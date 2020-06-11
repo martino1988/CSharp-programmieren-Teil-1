@@ -267,7 +267,7 @@ namespace _019_Berechnung_der_Tagnummer
                             zahlmonat = jan + febs + mar + apr + mai + jun + jul + aug + sep;
                             if (tag > 0 && tag <= 31)
                             {
-                                zahltag = tag;
+                                zahltag = tag; 
                             }
                             else
                                 Console.WriteLine("Tag muss zwischen 1 und 31 sein!");
