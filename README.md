@@ -190,15 +190,7 @@ int z = r.Next(20); // erzeugt eine Zufallszahl zwischen 0 und 19
 T1L16 – Diamantzeichner
 Implementieren Sie ein Programm das einen Diamanten zeichnet. Die Anzahl der * an der breitesten Stelle wird über Konsole eingegeben und muss eine ungerade Zahl sein.
 
-'    *
 
-'  * * *
-
-'* * * * *
-
-'  * * *
-
-'    *
 
 T1L17 – Temperaturstatistik
 Lesen Sie von der Konsole beliebig viele positive ganzzahlige Temperaturwerte ein. Die Eingabe wird dem Wert 1000 beendet. Berechnen Sie den niedrigsten, höchsten und durchschnittlichen Temperaturwert.
