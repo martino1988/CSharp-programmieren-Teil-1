@@ -305,4 +305,4 @@ Implementieren sie die Methode int[] SwapCopy(int[] iArray) welche alle Elemente
 T1A13 – Multiplikationstafel
 Implementieren Sie ein Programm zur Berechnung der Zahlen von 1*1 bis 12*12. Verwenden Sie für die Speicherung der Zahlen ein int[,] Array. Geben Sie die Tabelle auf der Konsole aus.
 
-
+![2020-06-11 16_43_09-Window](https://user-images.githubusercontent.com/61902639/84400922-f0e9fd00-ac02-11ea-98df-30804a4ee51b.png)
