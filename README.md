@@ -306,17 +306,17 @@ T1A9 – Arithmetisches Mittel
 Implementieren Sie ein Programm, welches maximal 10 Ganzzahlen von der Konsole einliest und in einem int[] speichert. Danach berechnen Sie das arithmetische Mittel der eingelesenen Zahlen.
 
 T1A10 – Hadamard Matrix
-Implementieren Sie ein Programm zur Berechnung der Hadamard Matrix H(N) für N = 2i. Verwenden Sie eine bool Matrix. Es gilt folgende Produktionsregel: 𝐻(1)=(𝑇) 𝐻(2)=(𝑇𝑇𝑇𝐹) 𝐻(4)=(𝑇𝑇𝑇𝑇𝑇𝐹𝑇𝐹𝑇𝑇𝐹𝐹𝑇𝐹𝐹𝑇)
+Implementieren Sie ein Programm zur Berechnung der Hadamard Matrix H(N) für N = 2i. Verwenden Sie eine bool Matrix. Es gilt folgende Produktionsregel:
+
+![2020-06-11 20_15_16-Window](https://user-images.githubusercontent.com/61902639/84424411-5b5d6600-ac20-11ea-9e70-84a6e51bcc34.png)
+
 Eine 2N-mal-2N Hadamard Matrix wird erzeugt, indem 4 Kopien der Hadamard n-mal-N Matrix in Form eines 2 mal 2 Rasters angelegt werden. In der rechten unteren N-mal-N Matrix werden die Werte invertiert.
 
 T1A11 – Magisches Quadrat
 Implementieren Sie ein Programm das ein Magisches Quadrat erzeugt. Die Anzahl der Zeilen und Spalten n wird über Konsole eingegeben und muss eine ungerade Zahl sein. In die Felder des Magischen Quadrates werden die Zahlen von 1 bis n2 eingesetzt. Allerdings muss die Summe aller Felder pro Zeile, pro Spalte und in den Diagonalen den gleichen Wert ergeben.
 Ein einfacher Algorithmus dazu ist in aufsteigender Reihenfolge vorzugehen und die Zahl 1 in die mittlere Zelle der letzten Zeile zuzuordnen. Die nächste Ziffer wird dann der Zelle diagonal rechts unten zugeordnet. Sollte hier bereits eine Zahl zugeordnet sein, dann wird die Zelle in der unmittelbar darüber liegenden Zeile genommen. Für die Randfälle wird wrap-around verwendet.
-4 9 2     11 18 25 2 9
-3 5 7     10 12 19 21 3
-8 1 6     4 6 13 20 22
-          23 5 7 14 16
-          17 24 1 8 15
+
+![2020-06-11 20_15_28-Window](https://user-images.githubusercontent.com/61902639/84424421-5e585680-ac20-11ea-80a3-a884c5c02cf9.png)
 
 T1A12 – Arrayelemente vertauschen
 Implementieren sie die Methode int[] SwapCopy(int[] iArray) welche alle Elemente von iArray in verkehrter Reihenfolge in ein neues Array ablegt und dieses zurückgibt. Implementieren Sie zusätzlich die Methode void PrintArray(int[] iArray), welche die Elemente von iArray auf der Konsole ausgibt.
