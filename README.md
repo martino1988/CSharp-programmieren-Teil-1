@@ -165,8 +165,13 @@ Implementieren Sie ein Programm, welches in einer Endlosschleife ganze Zahlen vo
 
 T1L11 – Newtonverfahren
 Implementieren Sie ein Programm welches nach dem Newtonverfahren die Wurzel aus einer Ganzzahl iterativ berechnet.
-Berechnung der Quadratwurzel der Zahl z: 𝑥𝑛+1=(𝑥𝑛+ 𝑧𝑥𝑛)2 𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑛𝑑 𝑚𝑖𝑡 𝑥1=1 𝑏𝑖𝑠 𝑎𝑏𝑠(𝑧−𝑥𝑛+12⁄)<0.1𝐸−9
-Berechnung der k-ten Wurzel der Zahl z: 𝑥𝑛+1=((𝑘−1)∗𝑥𝑛+𝑧𝑥𝑛𝑘−1)𝑘𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑛𝑑 𝑚𝑖𝑡 𝑥1=1 𝑏𝑖𝑠 𝑎𝑏𝑠(𝑧−𝑥𝑛+1𝑘)< 0.1𝐸−9
+Berechnung der Quadratwurzel der Zahl z: 
+
+![2020-06-11 20_06_41-Window](https://user-images.githubusercontent.com/61902639/84423699-2997cf80-ac1f-11ea-99e3-281c108e2364.png)
+
+Berechnung der k-ten Wurzel der Zahl z:
+
+![2020-06-11 20_06_53-Window](https://user-images.githubusercontent.com/61902639/84423707-2d2b5680-ac1f-11ea-9c99-1b7103d9c4b9.png)
 
 T1L12 – Zahlensystem
 Implementieren Sie ein Programm, das eine Zahl von einem Zahlensystem in ein anderes umwandelt.
