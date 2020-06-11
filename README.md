@@ -87,7 +87,10 @@ zwischen 1601 und 2399. Es gilt weiters:
 • Ist es aber auch durch 400 teilbar, dann gilt Regel 2 nicht, und es ist doch ein Schaltjahr.
 
 T1I6 – Einkommensteuer
-Berechnen Sie die Einkommensteuer für das über Konsole eingegebene Jahresgehalt. Dabei gelten folgende Regeln: 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−110007000∗1750 𝑓ü𝑟 11000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤18000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−1800013000∗4550+1750 𝑓ü𝑟 18000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤31000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−3100029000∗12180+6300 𝑓ü𝑟 31000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤60000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−6000030000∗14400+18480 𝑓ü𝑟 60000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤90000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−90000910000∗455000+32880 𝑓ü𝑟 90000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤1000000€ 𝑆𝑡𝐵=(𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−1000000)∗0.55+487880 𝑓ü𝑟 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡>1000000€
+Berechnen Sie die Einkommensteuer für das über Konsole eingegebene Jahresgehalt. Dabei gelten folgende Regeln: 
+
+![2020-06-11 20_03_25-Window](https://user-images.githubusercontent.com/61902639/84423420-b8f0b300-ac1e-11ea-904f-6c51bdd60843.png)
+
 Geben Sie auf der Konsole den Steuerbetrag (StB) aus und den Steuersatz in Bezug auf das Jahresgehalt.
 
 T1I7 – Gehaltsrechner
