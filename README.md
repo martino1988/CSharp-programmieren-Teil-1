@@ -264,10 +264,18 @@ Implementieren Sie ein Programm, welches die command line Parameter in umgekehrt
 
 T1A3 – Matrizen rechnen
 Implementieren Sie ein Programm zur Addition und Multiplikation zweier m x n Matrizen. Beschränken Sie sich im Beispiel auf 3 x 3 Matrizen.
-Addition zweier Matrizen: (𝑎11⋯𝑎1𝑛⋮⋱⋮𝑎𝑚1⋯𝑎𝑚𝑛)+ (𝑏11⋯𝑏1𝑛⋮⋱⋮𝑏𝑚1⋯𝑏𝑚𝑛)= (𝑐11⋯𝑐1𝑛⋮⋱⋮𝑐𝑚1⋯𝑐𝑚𝑛)
+Addition zweier Matrizen: 
+
+![2020-06-11 20_12_06-Window](https://user-images.githubusercontent.com/61902639/84424169-face2900-ac1f-11ea-92cb-48a1ce562339.png)
+
 Wobei gilt: 𝑐𝑖𝑗 = 𝑎𝑖𝑗+ 𝑏𝑖𝑗 (1 ≤𝑖 ≤𝑚,1 ≤𝑗 ≤𝑛)
-Multiplikation zweier Matrizen: (𝑎11⋯𝑎1𝑛⋮⋱⋮𝑎𝑚1⋯𝑎𝑚𝑛)∗(𝑏11⋯𝑏1𝑟⋮⋱⋮𝑏𝑛1⋯𝑏𝑛𝑟)= (𝑐11⋯𝑐1𝑟⋮⋱⋮𝑐𝑚1⋯𝑐𝑚𝑟)
+
+Multiplikation zweier Matrizen: 
+
+![2020-06-11 20_12_24-Window](https://user-images.githubusercontent.com/61902639/84424176-fdc91980-ac1f-11ea-8829-72d05416b656.png)
+
 Wobei gilt: 𝑐𝑖𝑗= 𝑎𝑖1𝑏1𝑗+ 𝑎𝑖2𝑏2𝑗+ …+𝑎𝑖𝑛𝑏𝑛𝑗 (1 ≤𝑖 ≤𝑚,1 ≤𝑗 ≤𝑟)
+
 Implementieren Sie eine Methode void printMatrix(int[,] matrix) zur Ausgabe der Matrix auf der Konsole.
 
 T1A4 – Fibonacci Zahlen
