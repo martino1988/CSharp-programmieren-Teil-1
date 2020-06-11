@@ -89,7 +89,7 @@ zwischen 1601 und 2399. Es gilt weiters:
 T1I6 – Einkommensteuer
 Berechnen Sie die Einkommensteuer für das über Konsole eingegebene Jahresgehalt. Dabei gelten folgende Regeln: 
 
-![2020-06-11 20_03_25-Window](https://user-images.githubusercontent.com/61902639/84423420-b8f0b300-ac1e-11ea-904f-6c51bdd60843.png)
+![2020-06-11 20_03_25-Window](https://user-images.githubusercontent.com/61902639/84423566-ef2e3280-ac1e-11ea-8307-f41193ad143c.png)
 
 Geben Sie auf der Konsole den Steuerbetrag (StB) aus und den Steuersatz in Bezug auf das Jahresgehalt.
 
