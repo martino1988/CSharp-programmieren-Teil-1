@@ -31,11 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013 Gehalt", "013 Gehalt\01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014 Fahrtzeit berechnen", "014 Fahrtzeit berechnen\014 Fahrtzeit berechnen.csproj", "{F142584F-9F36-4D6F-8594-B4F7DE1289CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 Kehrwert", "015 Kehrwert\015 Kehrwert.csproj", "{A126FA5E-9BBE-468E-846B-DB95D5771568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "015 Kehrwert", "015 Kehrwert\015 Kehrwert.csproj", "{A126FA5E-9BBE-468E-846B-DB95D5771568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 Mitgliedsbeitrag", "016 Mitgliedsbeitrag\016 Mitgliedsbeitrag.csproj", "{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016 Mitgliedsbeitrag", "016 Mitgliedsbeitrag\016 Mitgliedsbeitrag.csproj", "{2FF8ECFA-5159-42E6-B77B-E47DE5016ED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 Rabatt bei Buchhandlung", "017 Rabatt bei Buchhandlung\017 Rabatt bei Buchhandlung.csproj", "{972DDACC-616D-4867-858E-D0AFE1B9B874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "017 Rabatt bei Buchhandlung", "017 Rabatt bei Buchhandlung\017 Rabatt bei Buchhandlung.csproj", "{972DDACC-616D-4867-858E-D0AFE1B9B874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018 Erweiterung Fahrkartenschalter", "018 Erweiterung Fahrkartenschalter\018 Erweiterung Fahrkartenschalter.csproj", "{93963E91-B1BC-4606-8136-9B013BFCF29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019 Berechnung der Tagnummer", "019 Berechnung der Tagnummer\019 Berechnung der Tagnummer.csproj", "{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972DDACC-616D-4867-858E-D0AFE1B9B874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93963E91-B1BC-4606-8136-9B013BFCF29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93963E91-B1BC-4606-8136-9B013BFCF29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93963E91-B1BC-4606-8136-9B013BFCF29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93963E91-B1BC-4606-8136-9B013BFCF29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

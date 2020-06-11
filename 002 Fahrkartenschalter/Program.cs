@@ -26,7 +26,7 @@ namespace _002_Fahrkartenschalter
             Console.WriteLine("Anzahl der Fahrkarten: " + a);
             //   -der ermäßigte Preis einer Fahrkarte und
             double prErm = p - (p * ((double)pr / 100));
-            Console.WriteLine("Ermäßigte Preis einer Karte: " + prErm);
+            Console.WriteLine("Ermäßigter Preis einer Karte: " + prErm);
             //  - der ermäßigte Gesamtpreis.
             double gesPr = prErm * a;
             Console.WriteLine("Der ermäßigte Gesamtpreis: " + gesPr);
