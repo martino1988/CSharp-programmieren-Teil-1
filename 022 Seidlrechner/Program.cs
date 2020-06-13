@@ -42,7 +42,7 @@ namespace _022_Seidlrechner
                 Console.WriteLine("\nGetränk: Bier\nFass: " + fass + "\nEimer: " + eimer + "\nMass: " + mass + "\nSeidl: " + seidl);
             }
             else
-                Console.WriteLine("Falsche Eingabe!\nMögliche Eingaben: Bier/bier oder Wein/wein");
+                Console.WriteLine("Falsche Eingabe!\nMögliche Eingaben: Bier/bier oder Wein/wein"); 
         }
     }
 }
