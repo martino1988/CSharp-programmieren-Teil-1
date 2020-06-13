@@ -1,13 +1,20 @@
 # CSharp-programmieren-Teil-1
 ## UE Programmieren I, WS18/19: 
-### Inhalt: Arithmetische Operatoren, If – Else, Switch, Loops, Methoden, Arrays
+Vermittlung der Herangehensweise an die Entwicklung von Programmen mit Hilfe von Programmiersprachen unter Berücksichtigung des objektorientierten Programmierparadigmas:
+Inhalt: 
++ Arithmetische Operatoren
++ If – Else
++ Switch
++ Loops
++ Methoden
++ Arrays
 
-#### Konsole Eingabe und Ausgabe
+### Konsole Eingabe und Ausgabe
 
 T1K1 – Eingabe
 Implementieren Sie ein Programm, welches einen String, ein einzelnes Zeichen, einen Integerwert und eine Fließkommazahl von der Konsole einliest.
 
-#### Arithmetische Operatoren
+### Arithmetische Operatoren
 
 T1O1 – Fahrkartenschalter
 Implementieren Sie den Fahrkartenschalter anhand des Struktogramms.
@@ -53,7 +60,7 @@ Geben Sie über Konsole den Stundensatz des Mitarbeiters ein, sowie die Anzahl d
 T1O13 – Fahrzeit berechnen
 Geben Sie über Konsole die Abfahrtszeit des Zuges in Stunden und Minuten und die Ankunftszeit des Zuges in Stunden und Minuten ein. Berechnen Sie die Fahrzeit.
 
-#### If – Else
+### If – Else
 
 T1I1 – Kehrwert
 Implementieren Sie ein Programm zur Berechnung des Kehrwertes 1/z der Zahl z . Die Eingabe der
@@ -87,7 +94,10 @@ zwischen 1601 und 2399. Es gilt weiters:
 • Ist es aber auch durch 400 teilbar, dann gilt Regel 2 nicht, und es ist doch ein Schaltjahr.
 
 T1I6 – Einkommensteuer
-Berechnen Sie die Einkommensteuer für das über Konsole eingegebene Jahresgehalt. Dabei gelten folgende Regeln: 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−110007000∗1750 𝑓ü𝑟 11000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤18000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−1800013000∗4550+1750 𝑓ü𝑟 18000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤31000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−3100029000∗12180+6300 𝑓ü𝑟 31000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤60000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−6000030000∗14400+18480 𝑓ü𝑟 60000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤90000€ 𝑆𝑡𝐵= 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−90000910000∗455000+32880 𝑓ü𝑟 90000€<𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡≤1000000€ 𝑆𝑡𝐵=(𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡−1000000)∗0.55+487880 𝑓ü𝑟 𝐽𝑎ℎ𝑟𝑒𝑠𝑔𝑒ℎ𝑎𝑙𝑡>1000000€
+Berechnen Sie die Einkommensteuer für das über Konsole eingegebene Jahresgehalt. Dabei gelten folgende Regeln: 
+
+![2020-06-11 20_03_25-Window](https://user-images.githubusercontent.com/61902639/84423566-ef2e3280-ac1e-11ea-8307-f41193ad143c.png)
+
 Geben Sie auf der Konsole den Steuerbetrag (StB) aus und den Steuersatz in Bezug auf das Jahresgehalt.
 
 T1I7 – Gehaltsrechner
@@ -100,7 +110,7 @@ für Bier); 1 Fass Wein hat 10 Eimer, ein Fass Bier hat 2 Eimer. Erstellen Sie e
 einliest, ob es sich um Wein oder Bier handelt und danach die Anzahl der Fässer. Es soll die
 Anzahl der darin enthaltenen Seidel berechnet werden.
 
-#### Switch
+### Switch
 
 T1S1 – Schulnoten
 Erstellen Sie ein Programm, das für eine vom Benutzer eingegebene
@@ -121,7 +131,7 @@ Geben Sie das Ergebnis des arithmetischen Ausdrucks auf der Konsole aus. Verwend
 T1S4 – Berechnung arithmetischer Ausdruck
 Wie T1S3 aber unter ausschließlicher Verwendung von ternären Operatoren.
 
-#### Loops
+### Loops
 
 T1L1 – Multiplikation und Division
 Schreiben Sie ein Programm für die ganzzahlige Multiplikation und Division zweier int Zahlen i und j. Verwenden Sie aber nur die Operatoren + und –. Bei der Division soll auch der Rest ermittelt werden. Erstellen Sie zuerst ein Struktogramm.
@@ -162,8 +172,13 @@ Implementieren Sie ein Programm, welches in einer Endlosschleife ganze Zahlen vo
 
 T1L11 – Newtonverfahren
 Implementieren Sie ein Programm welches nach dem Newtonverfahren die Wurzel aus einer Ganzzahl iterativ berechnet.
-Berechnung der Quadratwurzel der Zahl z: 𝑥𝑛+1=(𝑥𝑛+ 𝑧𝑥𝑛)2 𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑛𝑑 𝑚𝑖𝑡 𝑥1=1 𝑏𝑖𝑠 𝑎𝑏𝑠(𝑧−𝑥𝑛+12⁄)<0.1𝐸−9
-Berechnung der k-ten Wurzel der Zahl z: 𝑥𝑛+1=((𝑘−1)∗𝑥𝑛+𝑧𝑥𝑛𝑘−1)𝑘𝑏𝑒𝑔𝑖𝑛𝑛𝑒𝑛𝑑 𝑚𝑖𝑡 𝑥1=1 𝑏𝑖𝑠 𝑎𝑏𝑠(𝑧−𝑥𝑛+1𝑘)< 0.1𝐸−9
+Berechnung der Quadratwurzel der Zahl z: 
+
+![2020-06-11 20_06_41-Window](https://user-images.githubusercontent.com/61902639/84423699-2997cf80-ac1f-11ea-99e3-281c108e2364.png)
+
+Berechnung der k-ten Wurzel der Zahl z:
+
+![2020-06-11 20_06_53-Window](https://user-images.githubusercontent.com/61902639/84423707-2d2b5680-ac1f-11ea-9c99-1b7103d9c4b9.png)
 
 T1L12 – Zahlensystem
 Implementieren Sie ein Programm, das eine Zahl von einem Zahlensystem in ein anderes umwandelt.
@@ -199,7 +214,7 @@ Lesen Sie von der Konsole beliebig viele positive ganzzahlige Temperaturwerte ei
 T1L18 – Kubensumme
 Schreiben Sie ein Programm, das alle dreistelligen Zahlen überprüft, ob sie gleich sind der Summe der Kuben ihrer Ziffern (z.B 153 = 1*1*1 + 5*5*5 + 3*3*3). Die gesuchten Zahlen sind 153, 370, 371, und 407.
 
-#### Methoden
+### Methoden
 
 T1M1 – Guthaben berechnen
 Implementieren Sie die Methode double EndkapitalBerechnen(int guthaben, int laufzeit, double zinssatz). Diese Methode berechnet den Wert des guthaben nach Ablauf von laufzeit Jahren unter Anwendung von zinssatz mit Berücksichtigung von Zinseszinsen und gibt das Resultat zurück.
@@ -210,7 +225,10 @@ Implementieren Sie zwei Methoden zur Berechnung von Umfang und Fläche eines Rec
 2. int Flaeche(int seiteA, int seiteB)
 
 T1M3 – Eulersche Zahl
-Berechnen Sie die Eulersche Zahl e und ex. Über Konsole wird der Wert für n und den Exponenten x eingegeben. Verwenden Sie folgende Formeln: 𝑒= 10!+11!+12!+13!+⋯+1𝑛! 𝑒𝑥=𝑥00!+𝑥11!+𝑥22!+𝑥33!+⋯+𝑥𝑛𝑛! 𝐵𝑒𝑎𝑐ℎ𝑡𝑒𝑛 𝑆𝑖𝑒:0!=1 𝑢𝑛𝑑 𝑥0=1
+Berechnen Sie die Eulersche Zahl e und ex. Über Konsole wird der Wert für n und den Exponenten x eingegeben. Verwenden Sie folgende Formeln:
+
+![2020-06-11 20_09_08-Window](https://user-images.githubusercontent.com/61902639/84423898-7d0a1d80-ac1f-11ea-8b10-166147483164.png)
+
 Zur Berechnung von xi verwenden Sie Math.Pow(x, i). Implementieren Sie folgende Methoden:
 • int Fakultaet(int i)
 • double Euler(int n)
@@ -243,7 +261,7 @@ Schreiben Sie die Methode boolean isPrime(int p) welche p überprüft, ob es sic
 Dieser Satz wurde 1770 veröffentlicht, aber bereits 700 Jahre früher von Abu Ali al-Hasan ibn al-Haitham entdeckt.
 Verwenden Sie als Datentyp für die Berechnung der Fakultät long und für p einen Wert kleiner oder gleich 20. Für die Berechnung der Fakultät verwenden Sie die Methode aus Beispiel T1M3.
 
-#### Array
+### Array
 
 T1A1 – Sieb des Erathosthenes
 Implementieren Sie das Sieb des Erathosthenes zur Berechnung der Primzahlen von 1 bis 1500. Gehen Sie dabei wie folgt vor: Aus der Liste der natürlichen Zahlen werden jene Zahlen gestrichen, die Vielfache der jeweils kleinsten noch nicht gestrichenen Zahl sind. Dadurch bleiben am Ende die Primzahlen übrig. Beachten Sie das Abbruchkriterium.
@@ -253,10 +271,18 @@ Implementieren Sie ein Programm, welches die command line Parameter in umgekehrt
 
 T1A3 – Matrizen rechnen
 Implementieren Sie ein Programm zur Addition und Multiplikation zweier m x n Matrizen. Beschränken Sie sich im Beispiel auf 3 x 3 Matrizen.
-Addition zweier Matrizen: (𝑎11⋯𝑎1𝑛⋮⋱⋮𝑎𝑚1⋯𝑎𝑚𝑛)+ (𝑏11⋯𝑏1𝑛⋮⋱⋮𝑏𝑚1⋯𝑏𝑚𝑛)= (𝑐11⋯𝑐1𝑛⋮⋱⋮𝑐𝑚1⋯𝑐𝑚𝑛)
+Addition zweier Matrizen: 
+
+![2020-06-11 20_12_06-Window](https://user-images.githubusercontent.com/61902639/84424169-face2900-ac1f-11ea-92cb-48a1ce562339.png)
+
 Wobei gilt: 𝑐𝑖𝑗 = 𝑎𝑖𝑗+ 𝑏𝑖𝑗 (1 ≤𝑖 ≤𝑚,1 ≤𝑗 ≤𝑛)
-Multiplikation zweier Matrizen: (𝑎11⋯𝑎1𝑛⋮⋱⋮𝑎𝑚1⋯𝑎𝑚𝑛)∗(𝑏11⋯𝑏1𝑟⋮⋱⋮𝑏𝑛1⋯𝑏𝑛𝑟)= (𝑐11⋯𝑐1𝑟⋮⋱⋮𝑐𝑚1⋯𝑐𝑚𝑟)
+
+Multiplikation zweier Matrizen: 
+
+![2020-06-11 20_12_24-Window](https://user-images.githubusercontent.com/61902639/84424176-fdc91980-ac1f-11ea-8829-72d05416b656.png)
+
 Wobei gilt: 𝑐𝑖𝑗= 𝑎𝑖1𝑏1𝑗+ 𝑎𝑖2𝑏2𝑗+ …+𝑎𝑖𝑛𝑏𝑛𝑗 (1 ≤𝑖 ≤𝑚,1 ≤𝑗 ≤𝑟)
+
 Implementieren Sie eine Methode void printMatrix(int[,] matrix) zur Ausgabe der Matrix auf der Konsole.
 
 T1A4 – Fibonacci Zahlen
@@ -287,17 +313,17 @@ T1A9 – Arithmetisches Mittel
 Implementieren Sie ein Programm, welches maximal 10 Ganzzahlen von der Konsole einliest und in einem int[] speichert. Danach berechnen Sie das arithmetische Mittel der eingelesenen Zahlen.
 
 T1A10 – Hadamard Matrix
-Implementieren Sie ein Programm zur Berechnung der Hadamard Matrix H(N) für N = 2i. Verwenden Sie eine bool Matrix. Es gilt folgende Produktionsregel: 𝐻(1)=(𝑇) 𝐻(2)=(𝑇𝑇𝑇𝐹) 𝐻(4)=(𝑇𝑇𝑇𝑇𝑇𝐹𝑇𝐹𝑇𝑇𝐹𝐹𝑇𝐹𝐹𝑇)
+Implementieren Sie ein Programm zur Berechnung der Hadamard Matrix H(N) für N = 2i. Verwenden Sie eine bool Matrix. Es gilt folgende Produktionsregel:
+
+![2020-06-11 20_15_16-Window](https://user-images.githubusercontent.com/61902639/84424411-5b5d6600-ac20-11ea-9e70-84a6e51bcc34.png)
+
 Eine 2N-mal-2N Hadamard Matrix wird erzeugt, indem 4 Kopien der Hadamard n-mal-N Matrix in Form eines 2 mal 2 Rasters angelegt werden. In der rechten unteren N-mal-N Matrix werden die Werte invertiert.
 
 T1A11 – Magisches Quadrat
 Implementieren Sie ein Programm das ein Magisches Quadrat erzeugt. Die Anzahl der Zeilen und Spalten n wird über Konsole eingegeben und muss eine ungerade Zahl sein. In die Felder des Magischen Quadrates werden die Zahlen von 1 bis n2 eingesetzt. Allerdings muss die Summe aller Felder pro Zeile, pro Spalte und in den Diagonalen den gleichen Wert ergeben.
 Ein einfacher Algorithmus dazu ist in aufsteigender Reihenfolge vorzugehen und die Zahl 1 in die mittlere Zelle der letzten Zeile zuzuordnen. Die nächste Ziffer wird dann der Zelle diagonal rechts unten zugeordnet. Sollte hier bereits eine Zahl zugeordnet sein, dann wird die Zelle in der unmittelbar darüber liegenden Zeile genommen. Für die Randfälle wird wrap-around verwendet.
-4 9 2     11 18 25 2 9
-3 5 7     10 12 19 21 3
-8 1 6     4 6 13 20 22
-          23 5 7 14 16
-          17 24 1 8 15
+
+![2020-06-11 20_15_28-Window](https://user-images.githubusercontent.com/61902639/84424421-5e585680-ac20-11ea-80a3-a884c5c02cf9.png)
 
 T1A12 – Arrayelemente vertauschen
 Implementieren sie die Methode int[] SwapCopy(int[] iArray) welche alle Elemente von iArray in verkehrter Reihenfolge in ein neues Array ablegt und dieses zurückgibt. Implementieren Sie zusätzlich die Methode void PrintArray(int[] iArray), welche die Elemente von iArray auf der Konsole ausgibt.
