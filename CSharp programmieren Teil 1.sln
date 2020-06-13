@@ -37,9 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016 Mitgliedsbeitrag", "016
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "017 Rabatt bei Buchhandlung", "017 Rabatt bei Buchhandlung\017 Rabatt bei Buchhandlung.csproj", "{972DDACC-616D-4867-858E-D0AFE1B9B874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018 Erweiterung Fahrkartenschalter", "018 Erweiterung Fahrkartenschalter\018 Erweiterung Fahrkartenschalter.csproj", "{93963E91-B1BC-4606-8136-9B013BFCF29C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "018 Erweiterung Fahrkartenschalter", "018 Erweiterung Fahrkartenschalter\018 Erweiterung Fahrkartenschalter.csproj", "{93963E91-B1BC-4606-8136-9B013BFCF29C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019 Berechnung der Tagnummer", "019 Berechnung der Tagnummer\019 Berechnung der Tagnummer.csproj", "{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019 Berechnung der Tagnummer", "019 Berechnung der Tagnummer\019 Berechnung der Tagnummer.csproj", "{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020 Einkommensteuer berechnen", "020 Einkommensteuer berechnen\020 Einkommensteuer berechnen.csproj", "{72B0FF76-6CB4-4B62-9429-F8CE48AC3E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 Gehaltsrechner", "021 Gehaltsrechner\021 Gehaltsrechner.csproj", "{FE9FAD53-F2BF-4A9E-AA7E-DDDDC6638981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022 Seidlrechner", "022 Seidlrechner\022 Seidlrechner.csproj", "{FF7CC90B-A7DC-424D-83D0-CD6244D21BFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1756CCFE-2C98-48CD-9F52-6C5E7A4118E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B0FF76-6CB4-4B62-9429-F8CE48AC3E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B0FF76-6CB4-4B62-9429-F8CE48AC3E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B0FF76-6CB4-4B62-9429-F8CE48AC3E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B0FF76-6CB4-4B62-9429-F8CE48AC3E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9FAD53-F2BF-4A9E-AA7E-DDDDC6638981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9FAD53-F2BF-4A9E-AA7E-DDDDC6638981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9FAD53-F2BF-4A9E-AA7E-DDDDC6638981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9FAD53-F2BF-4A9E-AA7E-DDDDC6638981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7CC90B-A7DC-424D-83D0-CD6244D21BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7CC90B-A7DC-424D-83D0-CD6244D21BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7CC90B-A7DC-424D-83D0-CD6244D21BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7CC90B-A7DC-424D-83D0-CD6244D21BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
