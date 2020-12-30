@@ -47,11 +47,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021 Gehaltsrechner", "021 G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022 Seidlrechner", "022 Seidlrechner\022 Seidlrechner.csproj", "{FF7CC90B-A7DC-424D-83D0-CD6244D21BFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023 Schulnoten", "023 Schulnoten\023 Schulnoten.csproj", "{FA147E2F-D050-44EE-B206-A4A308C1CEE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023 Schulnoten", "023 Schulnoten\023 Schulnoten.csproj", "{FA147E2F-D050-44EE-B206-A4A308C1CEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024 Umwandlung von Ziffer in Text", "024 Umwandlung von Ziffer in Text\024 Umwandlung von Ziffer in Text.csproj", "{478A6F85-5A3F-434D-A43B-E7D1B9FE9882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024 Umwandlung von Ziffer in Text", "024 Umwandlung von Ziffer in Text\024 Umwandlung von Ziffer in Text.csproj", "{478A6F85-5A3F-434D-A43B-E7D1B9FE9882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025 Berechnung arithmetischer Ausdruck", "025 Berechnung arithmetischer Ausdruck\025 Berechnung arithmetischer Ausdruck.csproj", "{5588E014-AE98-4521-8A29-CD4CEF1D7829}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "025 Berechnung arithmetischer Ausdruck", "025 Berechnung arithmetischer Ausdruck\025 Berechnung arithmetischer Ausdruck.csproj", "{5588E014-AE98-4521-8A29-CD4CEF1D7829}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "026 Multiplikation und Division", "026 Multiplikation und Division\026 Multiplikation und Division.csproj", "{E6449E45-73B3-4DFC-9F5E-FD2A14D3A381}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "027 Fakultät", "027 Fakultät\027 Fakultät.csproj", "{E5005996-5C66-462A-A08F-8F34F30084D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028 Euklid", "028 Euklid\028 Euklid.csproj", "{F1B35E3B-5E0C-42C9-B623-69EB1656D784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +165,18 @@ Global
 		{5588E014-AE98-4521-8A29-CD4CEF1D7829}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5588E014-AE98-4521-8A29-CD4CEF1D7829}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5588E014-AE98-4521-8A29-CD4CEF1D7829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6449E45-73B3-4DFC-9F5E-FD2A14D3A381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6449E45-73B3-4DFC-9F5E-FD2A14D3A381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6449E45-73B3-4DFC-9F5E-FD2A14D3A381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6449E45-73B3-4DFC-9F5E-FD2A14D3A381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5005996-5C66-462A-A08F-8F34F30084D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5005996-5C66-462A-A08F-8F34F30084D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5005996-5C66-462A-A08F-8F34F30084D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5005996-5C66-462A-A08F-8F34F30084D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
