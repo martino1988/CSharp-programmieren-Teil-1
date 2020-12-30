@@ -59,6 +59,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "027 Fakultät", "027 Fakult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028 Euklid", "028 Euklid\028 Euklid.csproj", "{F1B35E3B-5E0C-42C9-B623-69EB1656D784}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029 Collatz Folge", "029 Collatz Folge\029 Collatz Folge.csproj", "{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030 Bierverkäufer", "030 Bierverkäufer\030 Bierverkäufer.csproj", "{079996B6-9BF4-4553-A786-CD57B0BE0B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +181,14 @@ Global
 		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B35E3B-5E0C-42C9-B623-69EB1656D784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
