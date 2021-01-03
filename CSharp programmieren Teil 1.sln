@@ -57,11 +57,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "026 Multiplikation und Divi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "027 Fakultät", "027 Fakultät\027 Fakultät.csproj", "{E5005996-5C66-462A-A08F-8F34F30084D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028 Euklid", "028 Euklid\028 Euklid.csproj", "{F1B35E3B-5E0C-42C9-B623-69EB1656D784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "028 Euklid", "028 Euklid\028 Euklid.csproj", "{F1B35E3B-5E0C-42C9-B623-69EB1656D784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029 Collatz Folge", "029 Collatz Folge\029 Collatz Folge.csproj", "{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "029 Collatz Folge", "029 Collatz Folge\029 Collatz Folge.csproj", "{1C7A0F14-5735-42F9-BA37-417D5CCFF26F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030 Bierverkäufer", "030 Bierverkäufer\030 Bierverkäufer.csproj", "{079996B6-9BF4-4553-A786-CD57B0BE0B68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "030 Bierverkäufer", "030 Bierverkäufer\030 Bierverkäufer.csproj", "{079996B6-9BF4-4553-A786-CD57B0BE0B68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031 Quersumme", "031 Quersumme\031 Quersumme.csproj", "{72A98E6F-06FA-4557-B178-DD2B8793F2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032 Binärumrechner", "032 Binärumrechner\032 Binärumrechner.csproj", "{A3BBD8EA-93AF-4C48-8BA9-6F38AF2D7B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033 Kontotransaktionen", "033 Kontotransaktionen\033 Kontotransaktionen.csproj", "{C474979C-B968-44F0-A105-CEB356588106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +195,18 @@ Global
 		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{079996B6-9BF4-4553-A786-CD57B0BE0B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A98E6F-06FA-4557-B178-DD2B8793F2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A98E6F-06FA-4557-B178-DD2B8793F2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A98E6F-06FA-4557-B178-DD2B8793F2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A98E6F-06FA-4557-B178-DD2B8793F2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BBD8EA-93AF-4C48-8BA9-6F38AF2D7B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BBD8EA-93AF-4C48-8BA9-6F38AF2D7B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BBD8EA-93AF-4C48-8BA9-6F38AF2D7B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BBD8EA-93AF-4C48-8BA9-6F38AF2D7B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C474979C-B968-44F0-A105-CEB356588106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C474979C-B968-44F0-A105-CEB356588106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C474979C-B968-44F0-A105-CEB356588106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C474979C-B968-44F0-A105-CEB356588106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
