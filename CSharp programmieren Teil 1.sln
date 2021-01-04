@@ -75,13 +75,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "035 Eingabefilter", "035 Ei
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036 Newtonverfahren", "036 Newtonverfahren\036 Newtonverfahren.csproj", "{4DDB04BD-5B1A-4ECD-9E85-033740543B5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037 Zahlensystem", "037 Zahlensystem\037 Zahlensystem.csproj", "{5DDA4127-C969-4186-80E3-1B887146E321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "037 Zahlensystem", "037 Zahlensystem\037 Zahlensystem.csproj", "{5DDA4127-C969-4186-80E3-1B887146E321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "038 Primfaktorzerlegung", "038 Primfaktorzerlegung\038 Primfaktorzerlegung.csproj", "{ED8DF0B9-5EAA-4041-A186-3D077328AD53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "038 Primfaktorzerlegung", "038 Primfaktorzerlegung\038 Primfaktorzerlegung.csproj", "{ED8DF0B9-5EAA-4041-A186-3D077328AD53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039 Gamblers Ruin", "039 Gamblers Ruin\039 Gamblers Ruin.csproj", "{6CCDE079-9DEE-41C7-B065-A550DDFAD9AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "039 Gamblers Ruin", "039 Gamblers Ruin\039 Gamblers Ruin.csproj", "{6CCDE079-9DEE-41C7-B065-A550DDFAD9AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040 Buchstabengenerator", "040 Buchstabengenerator\040 Buchstabengenerator.csproj", "{92087971-F2EC-4AA2-B7EB-82732F215FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "040 Buchstabengenerator", "040 Buchstabengenerator\040 Buchstabengenerator.csproj", "{92087971-F2EC-4AA2-B7EB-82732F215FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041 Diamantenzeichner", "041 Diamantenzeichner\041 Diamantenzeichner.csproj", "{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "042 Temperaturstatistik", "042 Temperaturstatistik\042 Temperaturstatistik.csproj", "{306D11C5-CFD5-4F40-8456-951D3DCE7D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043 Kubensumme", "043 Kubensumme\043 Kubensumme.csproj", "{36023814-73B8-4E0D-9D40-EA6F776701DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +255,18 @@ Global
 		{92087971-F2EC-4AA2-B7EB-82732F215FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92087971-F2EC-4AA2-B7EB-82732F215FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92087971-F2EC-4AA2-B7EB-82732F215FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306D11C5-CFD5-4F40-8456-951D3DCE7D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306D11C5-CFD5-4F40-8456-951D3DCE7D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306D11C5-CFD5-4F40-8456-951D3DCE7D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306D11C5-CFD5-4F40-8456-951D3DCE7D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
