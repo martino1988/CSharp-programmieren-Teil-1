@@ -83,11 +83,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "039 Gamblers Ruin", "039 Ga
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "040 Buchstabengenerator", "040 Buchstabengenerator\040 Buchstabengenerator.csproj", "{92087971-F2EC-4AA2-B7EB-82732F215FB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041 Diamantenzeichner", "041 Diamantenzeichner\041 Diamantenzeichner.csproj", "{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "041 Diamantenzeichner", "041 Diamantenzeichner\041 Diamantenzeichner.csproj", "{F5F00F8F-48AA-4823-BCDE-D3DCBA352B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "042 Temperaturstatistik", "042 Temperaturstatistik\042 Temperaturstatistik.csproj", "{306D11C5-CFD5-4F40-8456-951D3DCE7D26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "042 Temperaturstatistik", "042 Temperaturstatistik\042 Temperaturstatistik.csproj", "{306D11C5-CFD5-4F40-8456-951D3DCE7D26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043 Kubensumme", "043 Kubensumme\043 Kubensumme.csproj", "{36023814-73B8-4E0D-9D40-EA6F776701DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043 Kubensumme", "043 Kubensumme\043 Kubensumme.csproj", "{36023814-73B8-4E0D-9D40-EA6F776701DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044 Guthaben berechnen", "044 Guthaben berechnen\044 Guthaben berechnen.csproj", "{6E697130-E761-471E-B39A-6DD9066D6AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045 Umfang und Fläche berechnen", "045 Umfang und Fläche berechnen\045 Umfang und Fläche berechnen.csproj", "{E0158B92-5CC6-40E6-B34D-B6E44773E369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +271,14 @@ Global
 		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36023814-73B8-4E0D-9D40-EA6F776701DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E697130-E761-471E-B39A-6DD9066D6AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E697130-E761-471E-B39A-6DD9066D6AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E697130-E761-471E-B39A-6DD9066D6AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E697130-E761-471E-B39A-6DD9066D6AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
