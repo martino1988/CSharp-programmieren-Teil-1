@@ -89,9 +89,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "042 Temperaturstatistik", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043 Kubensumme", "043 Kubensumme\043 Kubensumme.csproj", "{36023814-73B8-4E0D-9D40-EA6F776701DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044 Guthaben berechnen", "044 Guthaben berechnen\044 Guthaben berechnen.csproj", "{6E697130-E761-471E-B39A-6DD9066D6AC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044 Guthaben berechnen", "044 Guthaben berechnen\044 Guthaben berechnen.csproj", "{6E697130-E761-471E-B39A-6DD9066D6AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045 Umfang und Fläche berechnen", "045 Umfang und Fläche berechnen\045 Umfang und Fläche berechnen.csproj", "{E0158B92-5CC6-40E6-B34D-B6E44773E369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045 Umfang und Fläche berechnen", "045 Umfang und Fläche berechnen\045 Umfang und Fläche berechnen.csproj", "{E0158B92-5CC6-40E6-B34D-B6E44773E369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046 Eulersche Zahl", "046 Eulersche Zahl\046 Eulersche Zahl.csproj", "{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047 Perfekte Zahl", "047 Perfekte Zahl\047 Perfekte Zahl.csproj", "{D3D71471-AD4F-4E6F-BC66-88B354312AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048 Zahlumdrehen", "048 Zahlumdrehen\048 Zahlumdrehen.csproj", "{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049 Mirpzahlen", "049 Mirpzahlen\049 Mirpzahlen.csproj", "{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050 Primzahlüberprüfung Wilson", "050 Primzahlüberprüfung Wilson\050 Primzahlüberprüfung Wilson.csproj", "{68434D96-8528-4BA4-957D-B86897548785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +289,26 @@ Global
 		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0158B92-5CC6-40E6-B34D-B6E44773E369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D71471-AD4F-4E6F-BC66-88B354312AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D71471-AD4F-4E6F-BC66-88B354312AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D71471-AD4F-4E6F-BC66-88B354312AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D71471-AD4F-4E6F-BC66-88B354312AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68434D96-8528-4BA4-957D-B86897548785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68434D96-8528-4BA4-957D-B86897548785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68434D96-8528-4BA4-957D-B86897548785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68434D96-8528-4BA4-957D-B86897548785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
