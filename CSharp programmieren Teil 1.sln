@@ -93,15 +93,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044 Guthaben berechnen", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045 Umfang und Fläche berechnen", "045 Umfang und Fläche berechnen\045 Umfang und Fläche berechnen.csproj", "{E0158B92-5CC6-40E6-B34D-B6E44773E369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046 Eulersche Zahl", "046 Eulersche Zahl\046 Eulersche Zahl.csproj", "{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "046 Eulersche Zahl", "046 Eulersche Zahl\046 Eulersche Zahl.csproj", "{D4BC75C3-59C7-4C0E-9B14-46F046F5608B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047 Perfekte Zahl", "047 Perfekte Zahl\047 Perfekte Zahl.csproj", "{D3D71471-AD4F-4E6F-BC66-88B354312AFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047 Perfekte Zahl", "047 Perfekte Zahl\047 Perfekte Zahl.csproj", "{D3D71471-AD4F-4E6F-BC66-88B354312AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048 Zahlumdrehen", "048 Zahlumdrehen\048 Zahlumdrehen.csproj", "{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "048 Zahlumdrehen", "048 Zahlumdrehen\048 Zahlumdrehen.csproj", "{1D7E144E-AEA3-420E-91BE-952CF93F6BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049 Mirpzahlen", "049 Mirpzahlen\049 Mirpzahlen.csproj", "{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049 Mirpzahlen", "049 Mirpzahlen\049 Mirpzahlen.csproj", "{8F1EF38E-9B6A-4B54-BE2C-318DB0459952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050 Primzahlüberprüfung Wilson", "050 Primzahlüberprüfung Wilson\050 Primzahlüberprüfung Wilson.csproj", "{68434D96-8528-4BA4-957D-B86897548785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050 Primzahlüberprüfung Wilson", "050 Primzahlüberprüfung Wilson\050 Primzahlüberprüfung Wilson.csproj", "{68434D96-8528-4BA4-957D-B86897548785}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051 Sieb des Erathosthenes", "051 Sieb des Erathosthenes\051 Sieb des Erathosthenes.csproj", "{F2FD8ADF-F612-4FEB-990E-6EC49B41BEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052 Eingabeprameter vertauschen", "052 Eingabeprameter vertauschen\052 Eingabeprameter vertauschen.csproj", "{D08D372B-1E5C-4AB7-86E3-4BB4BB975E6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -309,6 +313,14 @@ Global
 		{68434D96-8528-4BA4-957D-B86897548785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68434D96-8528-4BA4-957D-B86897548785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68434D96-8528-4BA4-957D-B86897548785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FD8ADF-F612-4FEB-990E-6EC49B41BEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FD8ADF-F612-4FEB-990E-6EC49B41BEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FD8ADF-F612-4FEB-990E-6EC49B41BEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FD8ADF-F612-4FEB-990E-6EC49B41BEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08D372B-1E5C-4AB7-86E3-4BB4BB975E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08D372B-1E5C-4AB7-86E3-4BB4BB975E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08D372B-1E5C-4AB7-86E3-4BB4BB975E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08D372B-1E5C-4AB7-86E3-4BB4BB975E6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
