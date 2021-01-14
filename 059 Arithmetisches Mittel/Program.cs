@@ -24,6 +24,7 @@ namespace _059_Arithmetisches_Mittel
             }
             Console.WriteLine("Aritmethisches Mittel: " + summe/zahlen.Length);
 
+
         }
     }
 }

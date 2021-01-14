@@ -107,19 +107,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051 Sieb des Erathosthenes"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "052 Eingabeprameter vertauschen", "052 Eingabeprameter vertauschen\052 Eingabeprameter vertauschen.csproj", "{D08D372B-1E5C-4AB7-86E3-4BB4BB975E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053 Matritzen rechnen", "053 Matritzen rechnen\053 Matritzen rechnen.csproj", "{5EABE3C2-0AE3-489A-AC64-D19045B2AA73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "053 Matritzen rechnen", "053 Matritzen rechnen\053 Matritzen rechnen.csproj", "{5EABE3C2-0AE3-489A-AC64-D19045B2AA73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054 Fibonacci Zahlen", "054 Fibonacci Zahlen\054 Fibonacci Zahlen.csproj", "{63E6C69D-2B42-4F9E-ACBA-C475EBD830E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "054 Fibonacci Zahlen", "054 Fibonacci Zahlen\054 Fibonacci Zahlen.csproj", "{63E6C69D-2B42-4F9E-ACBA-C475EBD830E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055 Zinsen für Sparbuch", "055 Zinsen für Sparbuch\055 Zinsen für Sparbuch.csproj", "{F5AB18C2-2920-4672-A66E-EDDD95BEA0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "055 Zinsen für Sparbuch", "055 Zinsen für Sparbuch\055 Zinsen für Sparbuch.csproj", "{F5AB18C2-2920-4672-A66E-EDDD95BEA0E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056 Geldbetrag", "056 Geldbetrag\056 Geldbetrag.csproj", "{DC8FC563-FE4B-4A19-BC14-AAFFD11E7045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "056 Geldbetrag", "056 Geldbetrag\056 Geldbetrag.csproj", "{DC8FC563-FE4B-4A19-BC14-AAFFD11E7045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "057 Lotto", "057 Lotto\057 Lotto.csproj", "{CD0BB00A-DBF0-4E60-B240-DA65D8C16E59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "057 Lotto", "057 Lotto\057 Lotto.csproj", "{CD0BB00A-DBF0-4E60-B240-DA65D8C16E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058 Pascalsches Dreieck", "058 Pascalsches Dreieck\058 Pascalsches Dreieck.csproj", "{472D009F-75A9-4601-A3B1-1F35D6C34F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "058 Pascalsches Dreieck", "058 Pascalsches Dreieck\058 Pascalsches Dreieck.csproj", "{472D009F-75A9-4601-A3B1-1F35D6C34F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059 Arithmetisches Mittel", "059 Arithmetisches Mittel\059 Arithmetisches Mittel.csproj", "{A152DD09-E1FA-4EB2-99D6-49C00C1FB8B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "059 Arithmetisches Mittel", "059 Arithmetisches Mittel\059 Arithmetisches Mittel.csproj", "{A152DD09-E1FA-4EB2-99D6-49C00C1FB8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060 Hadamard Matrix", "060 Hadamard Matrix\060 Hadamard Matrix.csproj", "{C62AE486-9CFA-4C7D-A61F-BEA817748E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061 Magisches Quadrat", "061 Magisches Quadrat\061 Magisches Quadrat.csproj", "{5750B6F6-09AF-4DAA-8C94-847EA203D869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +367,14 @@ Global
 		{A152DD09-E1FA-4EB2-99D6-49C00C1FB8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A152DD09-E1FA-4EB2-99D6-49C00C1FB8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A152DD09-E1FA-4EB2-99D6-49C00C1FB8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62AE486-9CFA-4C7D-A61F-BEA817748E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62AE486-9CFA-4C7D-A61F-BEA817748E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62AE486-9CFA-4C7D-A61F-BEA817748E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62AE486-9CFA-4C7D-A61F-BEA817748E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5750B6F6-09AF-4DAA-8C94-847EA203D869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5750B6F6-09AF-4DAA-8C94-847EA203D869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5750B6F6-09AF-4DAA-8C94-847EA203D869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5750B6F6-09AF-4DAA-8C94-847EA203D869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
